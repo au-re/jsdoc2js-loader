@@ -1,0 +1,22 @@
+{
+  "name": "jsdoc2js-loader",
+  "version": "1.0.0",
+  "description": "Loads jsdoc descriptions as javascript objects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/au-re/jsdoc2js-loader.git"
+  },
+  "author": "Aurélien Franky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/au-re/jsdoc2js-loader/issues"
+  },
+  "homepage": "https://github.com/au-re/jsdoc2js-loader#readme",
+  "dependencies": {
+    "jsdoc-api": "^3.0.0"
+  },
+  "peerDependencies": {
+    "jsdoc-api": "^3.0.0"
+  }
+}
