@@ -1,7 +1,7 @@
 # jsdoc2js-loader
 📖📥📦 Loads jsdoc descriptions as javascript objects
 
-Simple webpack loader using [jsdoc-api]("https://github.com/jsdoc2md/jsdoc-api").
+Simple webpack loader using [jsdoc-api](https://github.com/jsdoc2md/jsdoc-api).
 
 ## Installation
 ```
