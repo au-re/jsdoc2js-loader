@@ -1,6 +1,6 @@
 {
   "name": "jsdoc2js-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loads jsdoc descriptions as javascript objects",
   "main": "index.js",
   "repository": {
