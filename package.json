@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "description": "Loads jsdoc descriptions as javascript objects",
   "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/au-re/jsdoc2js-loader.git"
@@ -14,9 +17,13 @@
   },
   "homepage": "https://github.com/au-re/jsdoc2js-loader#readme",
   "dependencies": {
-    "jsdoc-api": "^3.0.0"
+    "jsdoc-api": "^4.0.0"
   },
   "peerDependencies": {
-    "jsdoc-api": "^3.0.0"
+    "jsdoc-api": "^4.0.0"
+  },
+  "devDependencies": {
+    "expect": "^22.0.3",
+    "mocha": "^4.1.0"
   }
 }

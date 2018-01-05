@@ -1,4 +1,9 @@
 # jsdoc2js-loader
+
+[![License](https://img.shields.io/packagist/l/doctrine/orm.svg?style=flat-square)](https://github.com/au-re/jsdoc2js-loader/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/jsdoc2js-loader)
+[![dependencies Status](https://david-dm.org/au-re/jsdoc2js-loader/status.svg?style=flat-square)](https://david-dm.org/au-re/jsdoc2js-loader)
+
 📖📥📦 Loads jsdoc descriptions as javascript objects
 
 Simple webpack loader using [jsdoc-api](https://github.com/jsdoc2md/jsdoc-api).

@@ -1,4 +1,4 @@
-const jsdoc = require('jsdoc-api');
+const jsdoc = require("jsdoc-api");
 
 /**
  * Loader function
